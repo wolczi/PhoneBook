@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial,sans-serif;
+	
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(background.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: lightgoldenrodyellow;
+	font-size: 18px;
+	
+}
+
+
+#middleBOX {
+	border-bottom: 5px solid rgba(255, 255, 255, .3);
+	border-top: 5px solid rgba(255, 255, 255, .3);
+	margin-top: 15%;
+	margin-left: 30%;
+	margin-right: 30%;
+	color: lightgoldenrodyellow;
+	background-color: rgba(0,0,0, 0.5);
+	padding: 20px 20px;
+	margin-bottom: 2%;
+	
+}
+
+
+input[type=submit]{
+	padding: 2px;
+}
+
+
+td {
+	border: solid lightgoldenrodyellow 1px;
+	padding: 15px;
+	
+}
+
+table{
+	margin-left:auto;
+	margin-right: auto;
+}
+
